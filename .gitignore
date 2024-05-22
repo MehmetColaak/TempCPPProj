@@ -1,4 +1,7 @@
+# Folders
 build/
+
+# MacOS
 *.DS_Store
 
 # Prerequisites
